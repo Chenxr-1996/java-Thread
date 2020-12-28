@@ -1,3 +1,3 @@
 # java-Thread
 java-ThreadTest
-It's a test og thread
+It's a test of thread
